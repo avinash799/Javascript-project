@@ -1,0 +1,28 @@
+body{
+    background-color:blueviolet
+}
+.main{
+    width:100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.content{
+    color:white;
+}
+.Input{
+    padding: 5px 5px;
+    width : 75%;
+    align-items: center;
+    border :2px solid white;
+    border-radius: 10px;
+}
+.btn{
+    padding: 5px 5px;
+    color:white;
+    background-color: blueviolet;
+    font-weight: bold;
+    border: 1px solid white;
+
+}
